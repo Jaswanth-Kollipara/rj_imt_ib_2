@@ -1,0 +1,8 @@
+.img1 {
+  width: 200px;
+}
+.con {
+  display: flex;
+  flex-direction: row;
+  align-items: spacebetween;
+}

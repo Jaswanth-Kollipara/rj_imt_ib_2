@@ -1,0 +1,10 @@
+.con {
+  display: flex;
+  flex-direction: row;
+  align-items: spacebetween;
+  width: 90%;
+}
+.b1 {
+  background-color: #3b82f6;
+  color: #ffffff;
+}
